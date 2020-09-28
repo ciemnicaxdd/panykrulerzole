@@ -1,0 +1,8 @@
+body {
+    background-color: #050505;
+    font-family: 'Poppins', sans-serif;
+    color: #1B9AAA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
